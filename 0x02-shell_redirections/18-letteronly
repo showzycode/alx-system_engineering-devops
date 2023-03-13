@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep ^[[:alpha:]] /etc/shhd_config
+egrep *[[:alpha:]] /etc/shhd_config
